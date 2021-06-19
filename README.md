@@ -1,5 +1,4 @@
-# MovieTime
-Some Screenshots.
+# MovieTime - Some Screenshots
 
 ### Customer - Main Page
 ![image](https://user-images.githubusercontent.com/48449580/122633185-d41eba00-d0df-11eb-85ec-59061c7da09b.png)
